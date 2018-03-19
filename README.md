@@ -8,7 +8,7 @@
 *  Sadie Law
 *  Vasudha Gupta
 
-## Introduction to <insert project name here>
+## Introduction to Visualizing Income Migration
 
 ## Summary
 
